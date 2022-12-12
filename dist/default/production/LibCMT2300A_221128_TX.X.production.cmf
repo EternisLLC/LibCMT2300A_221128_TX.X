@@ -11,7 +11,7 @@
 # All addresses and the length are given in unqualified hexadecimal
 # in delta units.  Any other numeric values are decimal.
 %PSECTS
-$C:\Users\11\AppData\Local\Temp\s2g4.obj
+$C:\Users\11\AppData\Local\Temp\s5ig.obj
 idloc IDLOC 0 200000 200000 8 1
 init CODE 0 10A 10A 4 1
 reset_vec CODE 0 0 0 4 1
@@ -405,54 +405,54 @@ CC2 text1 CODE >273:F:\projekt\Garant433\TestNewDevice\LibCMT2300A_pic\LibCMT230
 778 text0 CODE >101:F:\projekt\Garant433\TestNewDevice\LibCMT2300A_pic\LibCMT2300A_221128_TX.X\mainLibCmt2300A_TX.c
 780 text0 CODE >105:F:\projekt\Garant433\TestNewDevice\LibCMT2300A_pic\LibCMT2300A_221128_TX.X\mainLibCmt2300A_TX.c
 79E text0 CODE >86:F:\projekt\Garant433\TestNewDevice\LibCMT2300A_pic\LibCMT2300A_221128_TX.X\mainLibCmt2300A_TX.c
-AD0 cinit CODE >1522:C:\Users\11\AppData\Local\Temp\s2g4.
-AD0 cinit CODE >1524:C:\Users\11\AppData\Local\Temp\s2g4.
-AD0 cinit CODE >1527:C:\Users\11\AppData\Local\Temp\s2g4.
-AD0 cinit CODE >1601:C:\Users\11\AppData\Local\Temp\s2g4.
-AD2 cinit CODE >1602:C:\Users\11\AppData\Local\Temp\s2g4.
-AD4 cinit CODE >1603:C:\Users\11\AppData\Local\Temp\s2g4.
-AD6 cinit CODE >1604:C:\Users\11\AppData\Local\Temp\s2g4.
-AD8 cinit CODE >1605:C:\Users\11\AppData\Local\Temp\s2g4.
-ADA cinit CODE >1606:C:\Users\11\AppData\Local\Temp\s2g4.
-ADC cinit CODE >1607:C:\Users\11\AppData\Local\Temp\s2g4.
-AE0 cinit CODE >1608:C:\Users\11\AppData\Local\Temp\s2g4.
-AE4 cinit CODE >1609:C:\Users\11\AppData\Local\Temp\s2g4.
-AE4 cinit CODE >1610:C:\Users\11\AppData\Local\Temp\s2g4.
-AE6 cinit CODE >1611:C:\Users\11\AppData\Local\Temp\s2g4.
-AEA cinit CODE >1612:C:\Users\11\AppData\Local\Temp\s2g4.
-AEC cinit CODE >1613:C:\Users\11\AppData\Local\Temp\s2g4.
-AEE cinit CODE >1614:C:\Users\11\AppData\Local\Temp\s2g4.
-AF0 cinit CODE >1618:C:\Users\11\AppData\Local\Temp\s2g4.
-AF2 cinit CODE >1619:C:\Users\11\AppData\Local\Temp\s2g4.
-AF4 cinit CODE >1620:C:\Users\11\AppData\Local\Temp\s2g4.
-AF6 cinit CODE >1621:C:\Users\11\AppData\Local\Temp\s2g4.
-AF8 cinit CODE >1622:C:\Users\11\AppData\Local\Temp\s2g4.
-AFA cinit CODE >1623:C:\Users\11\AppData\Local\Temp\s2g4.
-AFC cinit CODE >1624:C:\Users\11\AppData\Local\Temp\s2g4.
-AFE cinit CODE >1625:C:\Users\11\AppData\Local\Temp\s2g4.
-B02 cinit CODE >1626:C:\Users\11\AppData\Local\Temp\s2g4.
-B04 cinit CODE >1627:C:\Users\11\AppData\Local\Temp\s2g4.
-B08 cinit CODE >1628:C:\Users\11\AppData\Local\Temp\s2g4.
-B0A cinit CODE >1629:C:\Users\11\AppData\Local\Temp\s2g4.
-B0E cinit CODE >1633:C:\Users\11\AppData\Local\Temp\s2g4.
-B12 cinit CODE >1634:C:\Users\11\AppData\Local\Temp\s2g4.
-B14 cinit CODE >1635:C:\Users\11\AppData\Local\Temp\s2g4.
-B14 cinit CODE >1636:C:\Users\11\AppData\Local\Temp\s2g4.
-B16 cinit CODE >1637:C:\Users\11\AppData\Local\Temp\s2g4.
-B18 cinit CODE >1638:C:\Users\11\AppData\Local\Temp\s2g4.
-B1A cinit CODE >1641:C:\Users\11\AppData\Local\Temp\s2g4.
-B1E cinit CODE >1642:C:\Users\11\AppData\Local\Temp\s2g4.
-B20 cinit CODE >1643:C:\Users\11\AppData\Local\Temp\s2g4.
-B20 cinit CODE >1644:C:\Users\11\AppData\Local\Temp\s2g4.
-B22 cinit CODE >1645:C:\Users\11\AppData\Local\Temp\s2g4.
-B24 cinit CODE >1646:C:\Users\11\AppData\Local\Temp\s2g4.
-B26 cinit CODE >1652:C:\Users\11\AppData\Local\Temp\s2g4.
-B26 cinit CODE >1654:C:\Users\11\AppData\Local\Temp\s2g4.
-B28 cinit CODE >1655:C:\Users\11\AppData\Local\Temp\s2g4.
-B2A cinit CODE >1657:C:\Users\11\AppData\Local\Temp\s2g4.
-B2C cinit CODE >1658:C:\Users\11\AppData\Local\Temp\s2g4.
-B2E cinit CODE >1659:C:\Users\11\AppData\Local\Temp\s2g4.
-B30 cinit CODE >1660:C:\Users\11\AppData\Local\Temp\s2g4.
+AD0 cinit CODE >1522:C:\Users\11\AppData\Local\Temp\s5ig.
+AD0 cinit CODE >1524:C:\Users\11\AppData\Local\Temp\s5ig.
+AD0 cinit CODE >1527:C:\Users\11\AppData\Local\Temp\s5ig.
+AD0 cinit CODE >1601:C:\Users\11\AppData\Local\Temp\s5ig.
+AD2 cinit CODE >1602:C:\Users\11\AppData\Local\Temp\s5ig.
+AD4 cinit CODE >1603:C:\Users\11\AppData\Local\Temp\s5ig.
+AD6 cinit CODE >1604:C:\Users\11\AppData\Local\Temp\s5ig.
+AD8 cinit CODE >1605:C:\Users\11\AppData\Local\Temp\s5ig.
+ADA cinit CODE >1606:C:\Users\11\AppData\Local\Temp\s5ig.
+ADC cinit CODE >1607:C:\Users\11\AppData\Local\Temp\s5ig.
+AE0 cinit CODE >1608:C:\Users\11\AppData\Local\Temp\s5ig.
+AE4 cinit CODE >1609:C:\Users\11\AppData\Local\Temp\s5ig.
+AE4 cinit CODE >1610:C:\Users\11\AppData\Local\Temp\s5ig.
+AE6 cinit CODE >1611:C:\Users\11\AppData\Local\Temp\s5ig.
+AEA cinit CODE >1612:C:\Users\11\AppData\Local\Temp\s5ig.
+AEC cinit CODE >1613:C:\Users\11\AppData\Local\Temp\s5ig.
+AEE cinit CODE >1614:C:\Users\11\AppData\Local\Temp\s5ig.
+AF0 cinit CODE >1618:C:\Users\11\AppData\Local\Temp\s5ig.
+AF2 cinit CODE >1619:C:\Users\11\AppData\Local\Temp\s5ig.
+AF4 cinit CODE >1620:C:\Users\11\AppData\Local\Temp\s5ig.
+AF6 cinit CODE >1621:C:\Users\11\AppData\Local\Temp\s5ig.
+AF8 cinit CODE >1622:C:\Users\11\AppData\Local\Temp\s5ig.
+AFA cinit CODE >1623:C:\Users\11\AppData\Local\Temp\s5ig.
+AFC cinit CODE >1624:C:\Users\11\AppData\Local\Temp\s5ig.
+AFE cinit CODE >1625:C:\Users\11\AppData\Local\Temp\s5ig.
+B02 cinit CODE >1626:C:\Users\11\AppData\Local\Temp\s5ig.
+B04 cinit CODE >1627:C:\Users\11\AppData\Local\Temp\s5ig.
+B08 cinit CODE >1628:C:\Users\11\AppData\Local\Temp\s5ig.
+B0A cinit CODE >1629:C:\Users\11\AppData\Local\Temp\s5ig.
+B0E cinit CODE >1633:C:\Users\11\AppData\Local\Temp\s5ig.
+B12 cinit CODE >1634:C:\Users\11\AppData\Local\Temp\s5ig.
+B14 cinit CODE >1635:C:\Users\11\AppData\Local\Temp\s5ig.
+B14 cinit CODE >1636:C:\Users\11\AppData\Local\Temp\s5ig.
+B16 cinit CODE >1637:C:\Users\11\AppData\Local\Temp\s5ig.
+B18 cinit CODE >1638:C:\Users\11\AppData\Local\Temp\s5ig.
+B1A cinit CODE >1641:C:\Users\11\AppData\Local\Temp\s5ig.
+B1E cinit CODE >1642:C:\Users\11\AppData\Local\Temp\s5ig.
+B20 cinit CODE >1643:C:\Users\11\AppData\Local\Temp\s5ig.
+B20 cinit CODE >1644:C:\Users\11\AppData\Local\Temp\s5ig.
+B22 cinit CODE >1645:C:\Users\11\AppData\Local\Temp\s5ig.
+B24 cinit CODE >1646:C:\Users\11\AppData\Local\Temp\s5ig.
+B26 cinit CODE >1652:C:\Users\11\AppData\Local\Temp\s5ig.
+B26 cinit CODE >1654:C:\Users\11\AppData\Local\Temp\s5ig.
+B28 cinit CODE >1655:C:\Users\11\AppData\Local\Temp\s5ig.
+B2A cinit CODE >1657:C:\Users\11\AppData\Local\Temp\s5ig.
+B2C cinit CODE >1658:C:\Users\11\AppData\Local\Temp\s5ig.
+B2E cinit CODE >1659:C:\Users\11\AppData\Local\Temp\s5ig.
+B30 cinit CODE >1660:C:\Users\11\AppData\Local\Temp\s5ig.
 # %SYMTAB Section
 # An enumeration of all symbols in the program.
 # The beginning of the section is indicated by %SYMTAB.
@@ -475,7 +475,7 @@ __HidataBANK0 0 0 ABS 0 idataBANK0 dist/default/production\LibCMT2300A_221128_TX
 __end_of_ReadRegistrCmt2300 A64 0 CODE 0 text19 dist/default/production\LibCMT2300A_221128_TX.X.production.obj
 InitCmtBanks@i AB 0 BANK0 1 cstackBANK0 dist/default/production\LibCMT2300A_221128_TX.X.production.obj
 __Hibigdata 0 0 CODE 0 ibigdata dist/default/production\LibCMT2300A_221128_TX.X.production.obj
-__mediumconst 0 0 MEDIUMCONST 0 mediumconst C:\Users\11\AppData\Local\Temp\s2g4.obj
+__mediumconst 0 0 MEDIUMCONST 0 mediumconst C:\Users\11\AppData\Local\Temp\s5ig.obj
 __Heeprom_data 0 0 EEDATA 0 eeprom_data dist/default/production\LibCMT2300A_221128_TX.X.production.obj
 __CFG_MCLRE$ON 0 0 ABS 0 - dist/default/production\LibCMT2300A_221128_TX.X.production.obj
 __end_of_ValueCMTBank 64E 0 SMALLCONST 0 smallconst dist/default/production\LibCMT2300A_221128_TX.X.production.obj
@@ -484,10 +484,10 @@ _myHiIsr 8 0 CODE 0 intcode dist/default/production\LibCMT2300A_221128_TX.X.prod
 __Lsmallconst 600 0 SMALLCONST 0 smallconst dist/default/production\LibCMT2300A_221128_TX.X.production.obj
 _myLoIsr 18 0 CODE 0 intcodelo dist/default/production\LibCMT2300A_221128_TX.X.production.obj
 _TMR2 FCC 0 ABS 0 - dist/default/production\LibCMT2300A_221128_TX.X.production.obj
-___sp 0 0 STACK 2 stack C:\Users\11\AppData\Local\Temp\s2g4.obj
+___sp 0 0 STACK 2 stack C:\Users\11\AppData\Local\Temp\s5ig.obj
 _main 662 0 CODE 0 text0 dist/default/production\LibCMT2300A_221128_TX.X.production.obj
 btemp 38 0 COMRAM 1 temp dist/default/production\LibCMT2300A_221128_TX.X.production.obj
-start 10A 0 CODE 0 init C:\Users\11\AppData\Local\Temp\s2g4.obj
+start 10A 0 CODE 0 init C:\Users\11\AppData\Local\Temp\s5ig.obj
 __CFG_BOREN$OFF 0 0 ABS 0 - dist/default/production\LibCMT2300A_221128_TX.X.production.obj
 __size_of_main 0 0 ABS 0 - dist/default/production\LibCMT2300A_221128_TX.X.production.obj
 _NodeIdControlCmt2300 CD2 0 CODE 0 text11 dist/default/production\LibCMT2300A_221128_TX.X.production.obj
@@ -507,11 +507,11 @@ _Counter1ms 37 0 COMRAM 1 dataCOMRAM dist/default/production\LibCMT2300A_221128_
 _WriteByteFifoCmt2300 A64 0 CODE 0 text4 dist/default/production\LibCMT2300A_221128_TX.X.production.obj
 __HdataCOMRAM 0 0 ABS 0 dataCOMRAM dist/default/production\LibCMT2300A_221128_TX.X.production.obj
 _ValueTXBank 64E 0 SMALLCONST 0 smallconst dist/default/production\LibCMT2300A_221128_TX.X.production.obj
-__accesstop 60 0 ABS 0 - C:\Users\11\AppData\Local\Temp\s2g4.obj
-intlevel0 0 0 CODE 0 text C:\Users\11\AppData\Local\Temp\s2g4.obj
-intlevel1 0 0 CODE 0 text C:\Users\11\AppData\Local\Temp\s2g4.obj
-intlevel2 0 0 CODE 0 text C:\Users\11\AppData\Local\Temp\s2g4.obj
-intlevel3 0 0 CODE 0 text C:\Users\11\AppData\Local\Temp\s2g4.obj
+__accesstop 60 0 ABS 0 - C:\Users\11\AppData\Local\Temp\s5ig.obj
+intlevel0 0 0 CODE 0 text C:\Users\11\AppData\Local\Temp\s5ig.obj
+intlevel1 0 0 CODE 0 text C:\Users\11\AppData\Local\Temp\s5ig.obj
+intlevel2 0 0 CODE 0 text C:\Users\11\AppData\Local\Temp\s5ig.obj
+intlevel3 0 0 CODE 0 text C:\Users\11\AppData\Local\Temp\s5ig.obj
 __LbssCOMRAM 0 0 ABS 0 bssCOMRAM dist/default/production\LibCMT2300A_221128_TX.X.production.obj
 WriteFifoCmt2300@i 2A 0 COMRAM 1 cstackCOMRAM dist/default/production\LibCMT2300A_221128_TX.X.production.obj
 __LnvFARRAM 0 0 FARRAM 0 nvFARRAM dist/default/production\LibCMT2300A_221128_TX.X.production.obj
@@ -528,8 +528,8 @@ _InitGpioCmt2300 C56 0 CODE 0 text13 dist/default/production\LibCMT2300A_221128_
 _TxFifoCmt2300 80 0 BANK0 1 dataBANK0 dist/default/production\LibCMT2300A_221128_TX.X.production.obj
 __pidataCOMRAM D06 0 CODE 0 idataCOMRAM dist/default/production\LibCMT2300A_221128_TX.X.production.obj
 _ANSELH F7F 0 ABS 0 - dist/default/production\LibCMT2300A_221128_TX.X.production.obj
-___inthi_sp 0 0 STACK 2 stack C:\Users\11\AppData\Local\Temp\s2g4.obj
-___intlo_sp 0 0 STACK 2 stack C:\Users\11\AppData\Local\Temp\s2g4.obj
+___inthi_sp 0 0 STACK 2 stack C:\Users\11\AppData\Local\Temp\s5ig.obj
+___intlo_sp 0 0 STACK 2 stack C:\Users\11\AppData\Local\Temp\s5ig.obj
 InitInterruptCmt2300@temp A6 0 BANK0 1 cstackBANK0 dist/default/production\LibCMT2300A_221128_TX.X.production.obj
 __end_of_ValueDataRateBank 636 0 SMALLCONST 0 smallconst dist/default/production\LibCMT2300A_221128_TX.X.production.obj
 __LdataCOMRAM 0 0 ABS 0 dataCOMRAM dist/default/production\LibCMT2300A_221128_TX.X.production.obj
@@ -602,7 +602,7 @@ __Htext9 0 0 ABS 0 text9 dist/default/production\LibCMT2300A_221128_TX.X.product
 _InitPinsCMT2300 B88 0 CODE 0 text8 dist/default/production\LibCMT2300A_221128_TX.X.production.obj
 __Hbigbss 0 0 BIGRAM 1 bigbss dist/default/production\LibCMT2300A_221128_TX.X.production.obj
 __Hbigram 0 0 ABS 0 bigram dist/default/production\LibCMT2300A_221128_TX.X.production.obj
-__smallconst 600 0 SMALLCONST 0 smallconst C:\Users\11\AppData\Local\Temp\s2g4.obj
+__smallconst 600 0 SMALLCONST 0 smallconst C:\Users\11\AppData\Local\Temp\s5ig.obj
 __end_of_InitCmtBanks C00 0 CODE 0 text14 dist/default/production\LibCMT2300A_221128_TX.X.production.obj
 __Hcomram 0 0 ABS 0 comram dist/default/production\LibCMT2300A_221128_TX.X.production.obj
 __Hconfig 30000E 0 CONFIG 0 config dist/default/production\LibCMT2300A_221128_TX.X.production.obj
@@ -735,8 +735,8 @@ WriteFifoCmt2300@data A6 0 BANK0 1 cstackBANK0 dist/default/production\LibCMT230
 __end_of_GotoNewModeCmt2300 8C4 0 CODE 0 text16 dist/default/production\LibCMT2300A_221128_TX.X.production.obj
 __Lfarbss 0 0 FARRAM 0 farbss dist/default/production\LibCMT2300A_221128_TX.X.production.obj
 __Lfardata 0 0 FARRAM 0 fardata dist/default/production\LibCMT2300A_221128_TX.X.production.obj
-stackhi 5FF 0 ABS 0 - C:\Users\11\AppData\Local\Temp\s2g4.obj
-stacklo AD 0 ABS 0 - C:\Users\11\AppData\Local\Temp\s2g4.obj
+stackhi 5FF 0 ABS 0 - C:\Users\11\AppData\Local\Temp\s5ig.obj
+stacklo AD 0 ABS 0 - C:\Users\11\AppData\Local\Temp\s5ig.obj
 __end_of_InitCmt2300 952 0 CODE 0 text10 dist/default/production\LibCMT2300A_221128_TX.X.production.obj
 __Lintcode 8 0 CODE 0 intcode dist/default/production\LibCMT2300A_221128_TX.X.production.obj
 __Lintret 0 0 ABS 0 intret dist/default/production\LibCMT2300A_221128_TX.X.production.obj
@@ -795,7 +795,7 @@ __Ltext16 0 0 ABS 0 text16 dist/default/production\LibCMT2300A_221128_TX.X.produ
 __Ltext17 0 0 ABS 0 text17 dist/default/production\LibCMT2300A_221128_TX.X.production.obj
 __Ltext18 0 0 ABS 0 text18 dist/default/production\LibCMT2300A_221128_TX.X.production.obj
 __Ltext19 0 0 ABS 0 text19 dist/default/production\LibCMT2300A_221128_TX.X.production.obj
-__ramtop 600 0 RAM 0 ramtop C:\Users\11\AppData\Local\Temp\s2g4.obj
+__ramtop 600 0 RAM 0 ramtop C:\Users\11\AppData\Local\Temp\s5ig.obj
 __Lpowerup 10A 0 CODE 0 powerup dist/default/production\LibCMT2300A_221128_TX.X.production.obj
 __CFG_WDTPS$1024 0 0 ABS 0 - dist/default/production\LibCMT2300A_221128_TX.X.production.obj
 _InitInterrupt CFA 0 CODE 0 text9 dist/default/production\LibCMT2300A_221128_TX.X.production.obj

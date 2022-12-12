@@ -3293,21 +3293,21 @@ Version 3.2 HI-TECH Software Intermediate Code
 ..
 ]
 [; ;LibCmt2300_TX.c: 126: const unsigned char ValueSistemBank[12] = {0xAE,0xE0,0x35,0x00,0x00,0xF4,0x10,0xE2,0x42,0x20,0x00,0x81};
-"131
+"129
 [v _ValueFrequencyBank `Cuc ~T0 @X0 -> 8 `i e ]
 [i _ValueFrequencyBank
 :U ..
--> -> 68 `i `uc
--> -> 100 `i `uc
--> -> 158 `i `uc
--> -> 21 `i `uc
--> -> 68 `i `uc
--> -> 78 `i `uc
--> -> 236 `i `uc
--> -> 20 `i `uc
+-> -> 66 `i `uc
+-> -> 205 `i `uc
+-> -> 47 `i `uc
+-> -> 27 `i `uc
+-> -> 66 `i `uc
+-> -> 183 `i `uc
+-> -> 125 `i `uc
+-> -> 26 `i `uc
 ..
 ]
-[; ;LibCmt2300_TX.c: 131: const unsigned char ValueFrequencyBank[8] = {0x44,0x64,0x9E,0x15,0x44,0x4E,0xEC,0x14};
+[; ;LibCmt2300_TX.c: 129: const unsigned char ValueFrequencyBank[8] = {0x42,0xCD,0x2F,0x1B,0x42,0xB7,0x7D,0x1A};
 "133
 [v _ValueDataRateBank `Cuc ~T0 @X0 -> 24 `i e ]
 [i _ValueDataRateBank

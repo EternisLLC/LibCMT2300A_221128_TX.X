@@ -1,7 +1,7 @@
 
 
 Microchip Technology PIC18 LITE Macro Assembler V1.45 build -152302408 
-                                                                                               Mon Dec 12 15:18:58 2022
+                                                                                               Mon Dec 12 16:10:49 2022
 
 Microchip Technology Omniscient Code Generator v1.45 (Free mode) build 201711160504
      1                           	processor	18F25K20
@@ -253,14 +253,14 @@ Microchip Technology Omniscient Code Generator v1.45 (Free mode) build 201711160
    239                           	opt stack 0
    240  000659                     _ValueFrequencyBank:
    241                           	opt stack 0
-   242  000659  44                 	db	68
-   243  00065A  64                 	db	100
-   244  00065B  9E                 	db	158
-   245  00065C  15                 	db	21
-   246  00065D  44                 	db	68
-   247  00065E  4E                 	db	78
-   248  00065F  EC                 	db	236
-   249  000660  14                 	db	20
+   242  000659  42                 	db	66
+   243  00065A  CD                 	db	205
+   244  00065B  2F                 	db	47
+   245  00065C  1B                 	db	27
+   246  00065D  42                 	db	66
+   247  00065E  B7                 	db	183
+   248  00065F  7D                 	db	125
+   249  000660  1A                 	db	26
    250  000661                     __end_of_ValueFrequencyBank:
    251                           	opt stack 0
    252  0000                     _INTCONbits	set	4082
@@ -3644,7 +3644,7 @@ CODE                 0      0       0       0        0.0%
 
 
 Microchip Technology PIC18 Macro Assembler V1.45 build -152302408 
-Symbol Table                                                                                   Mon Dec 12 15:18:58 2022
+Symbol Table                                                                                   Mon Dec 12 16:10:49 2022
 
          ??_InitInterruptCmt2300 002C                               l90 09CE  
                              l91 09D0                               l86 099C  
